@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .header {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .schedule {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .schedule th,
+  .schedule td {
+    border: 1px solid #000000;
+    padding: 8px;
+  }
+  
+  .schedule th {
+    background-color: #eee;
+    text-align: left;
+  }
+  
+  .header-row {
+    background-color: #c78d8d;
+  }
+  
+  .schedule tr:nth-child(even) {
+    background-color: #4b0000;
+  }
+  

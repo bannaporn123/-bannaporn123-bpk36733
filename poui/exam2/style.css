@@ -1,0 +1,30 @@
+/* style.css */
+body {
+  text-align: center; 
+  font-family: Arial, sans-serif; 
+  margin: 20px; 
+  background: #ebebeb;
+}
+
+a {
+  text-decoration: none; 
+  display: inline-block; 
+  margin: 10px; 
+  padding: 10px 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  color: #000; 
+}
+
+a:hover { 
+  background-color: #eee; 
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+img {
+  display: block; 
+  margin-bottom: 10px; 
+}

@@ -1,0 +1,44 @@
+/* styles.css */
+p.bold {
+    font-weight: bold;
+}
+
+p.important {
+    /* Assuming you want a specific style for important text, adjust as needed */
+    font-weight: bold;
+    color: red;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.emphasized {
+    font-style: italic;
+}
+
+p mark {
+    background-color: yellow;
+}
+
+p.small {
+    font-size: smaller;
+}
+
+p del {
+    text-decoration: line-through;
+}
+
+p ins {
+    text-decoration: underline;
+}
+
+sub {
+    font-size: smaller;
+    vertical-align: sub;
+}
+
+sup {
+    font-size: smaller;
+    vertical-align: super;
+}
